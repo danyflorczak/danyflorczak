@@ -29,7 +29,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-</div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs"  alt="VueJS" width="40" height="40"/>&nbsp;
 </div>
 
