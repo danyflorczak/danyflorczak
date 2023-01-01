@@ -1,8 +1,5 @@
 Ruby on Rails Developer
 
-I am a Ruby on Rails Developer at Monterail and currently my main goals are oriented around learning Ruby on Rails more in depth and broaden my knowledge about software development in general 
-
-
 #### Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
