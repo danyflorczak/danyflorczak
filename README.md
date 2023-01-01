@@ -1,6 +1,6 @@
-## Web Developer | Ruby on Rails 
+Ruby on Rails Developer
 
-I am a Ruby on Rails Developer @Monterail and currently my main goals are oriented around learning Ruby on Rails more in depth and broaden my knowledge about software development in general 
+I am a Ruby on Rails Developer at Monterail and currently my main goals are oriented around learning Ruby on Rails more in depth and broaden my knowledge about software development in general 
 
 
 #### Languages:
@@ -22,8 +22,6 @@ I am a Ruby on Rails Developer @Monterail and currently my main goals are orient
 
 #### Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
