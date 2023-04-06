@@ -1,4 +1,5 @@
 ## Ruby on Rails Developer at Monterail
+"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live." ~ John Woods
 
 #### Languages:
 <div>
