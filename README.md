@@ -38,6 +38,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danyflorczak&theme=dark)](https://git.io/streak-stats)
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/forlorny?theme=dark&font=Nanum%20Gothic%20Coding&ext=heatmap)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danyflorczak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
