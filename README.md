@@ -37,9 +37,6 @@
 
 ### :fire: My Stats :
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=danyflorczak&theme=dark" style="width: 50%; height: auto;" alt="GitHub Streak"/>
-  </a>
   <a href="YOUR_LEETCODE_PROFILE_URL">
     <img src="https://leetcard.jacoblin.cool/forlorny?theme=dark&font=Nanum%20Gothic%20Coding&ext=heatmap" style="width: 50%; height: auto;" alt="LeetCode Stats"/>
   </a>
